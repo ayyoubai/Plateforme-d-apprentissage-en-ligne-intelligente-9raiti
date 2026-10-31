@@ -175,10 +175,10 @@ Toutes les requêtes passent par `http://localhost:9000`.
 
 ## Équipe
 
-Projet réalisé en équipe. Contributeurs, d'après l'historique Git :
+Projet réalisé en équipe :
 
-- **Charaf AZIZI** – [@CharafAZIZI](https://github.com/CharafAZIZI)
-- ayyoubai
-- zakaria-14
-- Saoussane
-- dinaachah123-maker
+- Charaf AZIZI
+- ayyoub ELMAHI
+- zakaria ZAMMOURI
+- Saoussane TAOUFIK
+- dina ACHAHBOUN
